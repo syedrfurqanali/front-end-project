@@ -1,0 +1,29 @@
+.bg{
+    background-image: url('../images/Desktop-Wallpapers.jpg');
+    height: 1080px;
+
+}
+.md-1{
+    padding: 259px;
+    padding-inline: 91px;
+}
+.para{
+    margin-top: 40px;
+    color: antiquewhite;
+
+}
+.para pre{
+    color: antiquewhite;
+}
+.pre1 pre{
+    margin-top: -18px;
+    color: antiquewhite;
+
+}
+.pre2 pre{
+    margin-top: -18px;
+    color: antiquewhite;
+}
+.color{
+    color: antiquewhite;
+}

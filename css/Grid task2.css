@@ -1,0 +1,26 @@
+
+/* .height2 .row{
+    height: 400px;
+} */
+
+.h-400{
+    height:400px ;
+}
+body{
+    overflow-x: hidden;
+}
+.blue{
+    background-color: blueviolet;
+}
+.sky{
+    background-color: aquamarine;
+}
+.red{
+    background-color: brown;
+}
+.mango{
+    background-color: rgba(0, 0, 0, 0.199)
+}
+.orange{
+    background-color:aqua;
+}
